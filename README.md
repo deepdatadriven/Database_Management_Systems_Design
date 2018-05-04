@@ -22,3 +22,6 @@ The students should have knowledge of a programming language, and a background o
 7. Query Evaluation: operator evaluation, algorithms for relational operators, query optimization. 
 8. Formal Database Design Theory: functional and other dependencies, dependency inference, normal forms, schema decomposition, normalization. 
 9. Database Management System Implementation Issues: transaction processing, concurrency control. 
+
+### Final Project:
+Desgin an Online Hotel Reservation WEB System
